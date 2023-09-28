@@ -1,0 +1,8 @@
+[
+  { "op": "Change IP format",
+    "args": ["Decimal", "Hex"] },
+  { "op": "Swap endianness",
+    "args": ["Hex", 4, true] },
+  { "op": "Change IP format",
+    "args": ["Hex", "Dotted Decimal"] }
+]
